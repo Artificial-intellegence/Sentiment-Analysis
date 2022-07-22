@@ -1,0 +1,5 @@
+Give detailed instructions for how to run your code here. Be sure to indicate where all of your data sets are located on the CS system.
+
+Run the provided jupyter notebook. In order to run the code without error, all required packages and libraries must be installed.
+The easiest way to ensure this is the case is to activate the virtual environment we have been using in class (source /usr/swat/bin/CS63env).
+Our dataset is located within our project repository.
